@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restro-project/static/css/main.0ff44d43.chunk.css",
+    "main.js": "/restro-project/static/js/main.bcf645a0.chunk.js",
+    "main.js.map": "/restro-project/static/js/main.bcf645a0.chunk.js.map",
+    "runtime-main.js": "/restro-project/static/js/runtime-main.ff1fb83c.js",
+    "runtime-main.js.map": "/restro-project/static/js/runtime-main.ff1fb83c.js.map",
+    "static/js/2.8ec3587c.chunk.js": "/restro-project/static/js/2.8ec3587c.chunk.js",
+    "static/js/2.8ec3587c.chunk.js.map": "/restro-project/static/js/2.8ec3587c.chunk.js.map",
+    "static/js/3.a086b6ad.chunk.js": "/restro-project/static/js/3.a086b6ad.chunk.js",
+    "static/js/3.a086b6ad.chunk.js.map": "/restro-project/static/js/3.a086b6ad.chunk.js.map",
+    "index.html": "/restro-project/index.html",
+    "static/css/main.0ff44d43.chunk.css.map": "/restro-project/static/css/main.0ff44d43.chunk.css.map",
+    "static/js/2.8ec3587c.chunk.js.LICENSE.txt": "/restro-project/static/js/2.8ec3587c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff1fb83c.js",
+    "static/js/2.8ec3587c.chunk.js",
+    "static/css/main.0ff44d43.chunk.css",
+    "static/js/main.bcf645a0.chunk.js"
+  ]
+}
