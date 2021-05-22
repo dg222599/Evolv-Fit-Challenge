@@ -1,6 +1,5 @@
-**#This is the codebase for the EvolvFit Challenge for SDE Intern(Frontend),SDE Frontend Intern.
-
-**The level completed is Level-1 for both the challenges.
+**This is the codebase for the EvolvFit Challenge for SDE Intern(Frontend),SDE Frontend Intern.
+The level completed is Level-1 for both the challenges.**
 
 Some of the screenshots and video are given below of the main page and /add page
 ![Selection_201](https://user-images.githubusercontent.com/56475367/119214645-0a1f4d00-bae6-11eb-9eee-7e42a80112ba.png)
